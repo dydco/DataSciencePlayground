@@ -1,8 +1,4 @@
-# DataSciencePlayground
-
-
-
-## Welcome to the Data Science Playground! 
+# Welcome to the Data Science Playground! 
 
 This repository serves as a showcase of various data science projects, exploratory and statistical data analysis, machine learning model development, optimization, and evaluation.
 
@@ -10,7 +6,13 @@ This repository serves as a showcase of various data science projects, explorato
 
 ## Table of Contents
 
-[TOC]
+---
+- [Introduction](#introduction)
+- [Folder Structure](#folder-structure)
+- [Usage](#usage)
+
+
+---
 
 
 
