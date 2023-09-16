@@ -56,4 +56,3 @@ To interact with the individual projects:
 1. Navigate to the project folder of interest.
 2. Open the Jupyter notebook associated with the project.
 3. Follow the instructions within the notebook to reproduce the analysis or run the code.
-
