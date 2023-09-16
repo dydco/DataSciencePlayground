@@ -2,7 +2,7 @@
 
 This repository serves as a showcase of various data science projects, exploratory and statistical data analysis, machine learning model development, optimization, and evaluation.
 
-
+<br/>
 
 ## Table of Contents 📋
 
@@ -14,13 +14,13 @@ This repository serves as a showcase of various data science projects, explorato
 
 ---
 
-
+<br/>
 
 ## Introduction :robot:
 
 In this repository, you'll find a collection of Jupyter notebooks, some containing SQL and Python code for a range of data science projects. These projects cover a wide array of topics and techniques within the field of data science.
 
-
+<br/>
 
 ## Folder Structure :card_file_box:
 
@@ -47,7 +47,7 @@ DataSciencePlayground
 
 :memo: _The contents of the individual subdirectories vary depending on the projects' requirements._
 
-
+<br/>
 
 ## Usage :rocket: 
 
