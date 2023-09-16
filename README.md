@@ -32,13 +32,13 @@ DataSciencePlayground
 |    |--- assets			# Additional files used in Project Name 1
 |    |--- datasets			# Dataset(s) used in Project Name 1
 |    |--- notebook			# Jupyter notebook for Project Name 1
-|    |--- presentation		# Jupyter presentation for Project Name 1
+|    |--- presentation			# Jupyter presentation for Project Name 1
 |    `--- README.md			# Detailed README for Project Name 1
 |--- Project Name 2
 |    |--- assets			# Additional files used in Project Name 2
 |    |--- datasets			# Dataset(s) used in Project Name 2
 |    |--- notebook			# Jupyter notebook for Project Name 2
-|    |--- presentation		# Jupyter presentation for Project Name 2
+|    |--- presentation			# Jupyter presentation for Project Name 2
 |    `--- README.md			# Detailed README for Project Name 2
 |--- ...
 `--- README.md				# Main repository README (this file)
