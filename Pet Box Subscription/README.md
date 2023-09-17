@@ -36,7 +36,7 @@ The insights are obtained through the applications of exploratory and statistica
 
 ## Technologies & Tools :hammer_and_wrench:
 
-SQL, PostgreSQL, pgAdmin, gnuplot, JupyterLab, LibreOffice Calc.
+SQL, [PostgreSQL](https://www.postgresql.org), [pgAdmin](https://www.pgadmin.org), [gnuplot](http://www.gnuplot.info), [JupyterLab](https://jupyter.org), [LibreOffice Calc](https://www.libreoffice.org).
 
 <br/>
 
