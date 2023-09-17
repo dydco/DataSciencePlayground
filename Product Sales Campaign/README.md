@@ -1,6 +1,5 @@
 # 🖋 Product Sales Campaign 🖨
 
-## [Practical Exam]
 
 
 This project was my final practical exam for my [Data Analyst Professional certification](https://www.datacamp.com/certificate/DA0028664290129) with Python and SQL at DataCamp.
@@ -19,7 +18,7 @@ Pens and Printers is aware that its sales strategies need to adopt new tactics t
 
 <br/>
 
-## Objective 
+## Objective :dart:
 
 Six weeks ago Pens and Printers launched a new product line of office stationery. 
 
@@ -33,30 +32,31 @@ For the new product line launch Pens and Printers applied three different sales 
 | **phone call** | phone call by a sales representative | average phone call duration: <br/>30 minutes per customer |
 | **email and phone call** | one email sent at product launch, <br/>a follow-up phone call by a sales representative a week later | email requires very little effort; <br/>average follow-up phone call duration: <br/>10 minutes per customer |
 
+<br/>
+
 This data analysis aims at answering the following questions about Pens and Printers' latest sales campaign:
 
-* How many customers were there for each sales approach?
-* What does the spread of the revenue look like overall? And for each method?
-* Was there any difference in revenue over time for each of the sales methods?
-* Based on the data (time, effort, results per sales strategy), which method would you recommend we continue to use?
-* Provide context about customer groups, an overview of what is going on, and what to do next.
+* _How many customers were there for each sales approach?_
+* _What does the spread of the revenue look like overall? And for each method?_
+* _Was there any difference in revenue over time for each of the sales methods?_
+* _Based on the data (time, effort, results per sales strategy), which method would you recommend we continue to use?_
+* _Provide context about customer groups, an overview of what is going on, and what to do next._
 
 <br/>
 
-## Data
+## Data :card_file_box:
 
 The dataset is provided as a CSV file and it can be found in the `/datasets` directory of this repository. The data contains records from the company's sales tracking system.
 
 <br/>
 
-## Method
+## Method :gear:
 
 The insights are obtained through the applications of exploratory and statistical data analysis.
 
 <br/>
 
-## Technologies & Tools
+## Technologies & Tools :hammer_and_wrench:
 
-Python, numpy, pandas, matplotlib, seaborn, scipy, JupyterLab
-
+Python :snake:, NumPy, Pandas, Matplotlib, Seaborn, SciPy, JupyterLab
 
