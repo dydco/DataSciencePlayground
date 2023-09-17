@@ -1,6 +1,6 @@
 # Welcome to the Data Science Playground! 🦾
 
-This repository serves as a showcase of various data science projects, exploratory and statistical data analysis, machine learning model development, optimization, and evaluation.
+This repository serves as a showcase of various data science projects, exploratory and statistical data analysis, data visualizations, machine learning model development, optimization, and evaluation.
 
 <br/>
 
