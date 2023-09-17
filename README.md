@@ -54,13 +54,18 @@ DataSciencePlayground
 To interact with the individual projects:
 
 1. Navigate to the project folder of interest.
+
 2. Open the Jupyter notebook associated with the project.
+
 3. Follow the instructions within the notebook to reproduce the analysis or run the code.
+
 4. Presentations are created in JupyterLab and exported as HTML files.
-    * Open the presentation and navigate through it using the arrow keys.
-    * During the presentation, you can see navigation controls at the bottom of the screen. 
-    * Main ideas are presented on individual slides (use the right arrow key to advance).
-    * Ideas are further developed in sets of subslides and fragments (use the down arrow key).
-    * Once you reach the last subslide with the down arrow, move to the next topic using the right arrow.
-    * Press `ESC` to toggle the slide overview.
-    * The left and up arrow keys allow you to move backward and upward through the slides, respectively.
+
+> :warning: GitHub cannot display the presentations. You need to download the file to view the presentation.
+> * Open the presentation and navigate through it using the arrow keys.
+> * During the presentation, you can see navigation controls at the bottom of the screen. 
+> * Main ideas are presented on individual slides (use the right arrow key to advance).
+> * Ideas are further developed in sets of subslides and fragments (use the down arrow key).
+> * Once you reach the last subslide with the down arrow, move to the next topic using the right arrow.
+> * Press `ESC` to toggle the slide overview.
+> * The left and up arrow keys allow you to move backward and upward through the slides, respectively.
