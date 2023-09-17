@@ -14,7 +14,7 @@ PetMind is a nationwide pet product retailer in the United States. With inflatio
 
 <br/>
 
-### Objective :dart:
+## Objective :dart:
 
 The marketing team would like to answer the following questions to help with the decision:
 
@@ -24,19 +24,19 @@ The marketing team would like to answer the following questions to help with the
 
 <br/>
 
-### Data :card_file_box:
+## Data :card_file_box:
 
 The dataset is provided as a CSV file and it can be found in the `/datasets` directory of this repository. The data contains sales records from the stores over the last year,
 
 <br/>
 
-### Methods :gear:
+## Methods :gear:
 
 The insights are obtained through the applications of exploratory and statistical data analysis.
 
 <br/>
 
-### Technologies & Tools :hammer_and_wrench:
+## Technologies & Tools :hammer_and_wrench:
 
 SQL, PostgreSQL, pgAdmin, gnuplot, LibreOffice Calc.
 
