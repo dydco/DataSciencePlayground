@@ -56,7 +56,7 @@ The insights are obtained through the applications of exploratory and statistica
 
 <br/>
 
-## Technologies & Tools :hammer_and_wrench:
+## Tech Stack :hammer_and_wrench:
 
 [Python :snake:](https://www.python.org), [NumPy](https://numpy.org), [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org), [SciPy](https://scipy.org), [JupyterLab](https://jupyter.org)
 

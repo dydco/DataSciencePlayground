@@ -34,10 +34,13 @@ The insights are obtained through the applications of exploratory and statistica
 
 <br/>
 
-## Technologies & Tools :hammer_and_wrench:
+## Tech Stack :hammer_and_wrench:
 
 SQL, [PostgreSQL](https://www.postgresql.org), [pgAdmin](https://www.pgadmin.org), [gnuplot](http://www.gnuplot.info), [JupyterLab](https://jupyter.org), [LibreOffice Calc](https://www.libreoffice.org).
 
 <br/>
 
 :memo: This Jupyter notebook contains only the results of the data analysis and the data visualizations without the SQL code.
+
+
+

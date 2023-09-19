@@ -54,7 +54,7 @@ The ML model development workflow includes:
 
 <br/>
 
-## Technologies & Tools :hammer_and_wrench:
+## Tech Stack :hammer_and_wrench:
 
 [Python :snake:](https://www.python.org), [NumPy](https://numpy.org), [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org), [Scikit-Learn](https://scikit-learn.org/stable/index.html), [JupyterLab](https://jupyter.org), [Yellowbrick](https://www.scikit-yb.org/en/latest/)
 
