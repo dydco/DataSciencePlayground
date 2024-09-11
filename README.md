@@ -7,6 +7,9 @@ This repository serves as a showcase of various data science projects, explorato
 ## Table of Contents 📋
 
 ---
+
+<br/>
+
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
 - [Usage](#usage)
