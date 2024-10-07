@@ -24,24 +24,23 @@ In this repository, you'll find a collection of Jupyter notebooks, some containi
 
 The repository is organized as follows:
 
-```graphql
-DataSciencePlayground
-|--- Project Name 1
-|    |--- assets			# Additional files used in Project Name 1
-|    |--- datasets			# Dataset(s) used in Project Name 1
-|    |--- notebook			# Jupyter notebook for Project Name 1
-|    |--- presentation			# Jupyter presentation for Project Name 1
-|    `--- README.md			# Detailed README for Project Name 1
-|--- Project Name 2
-|    |--- assets			# Additional files used in Project Name 2
-|    |--- datasets			# Dataset(s) used in Project Name 2
-|    |--- notebook			# Jupyter notebook for Project Name 2
-|    |--- presentation			# Jupyter presentation for Project Name 2
-|    `--- README.md			# Detailed README for Project Name 2
-|--- ...
-`--- README.md				# Main repository README (this file)
+<pre style="font-family:Menlo, 'DejaVu Sans Mono', consolas, 'Courier New', monospace">🤖 <span style="color: #dadada; text-decoration-color: #dadada; font-weight: bold">DataSciencePlayground</span> 🦾
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 <span style="color: #ff6f61; text-decoration-color: #ff6f61">Project_1</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #ffb07c; text-decoration-color: #ffb07c">assets</span>                  <span style="color: #808080; text-decoration-color: #808080"># Additional files used in Project_1</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #ffd700; text-decoration-color: #ffd700">datasets</span>                <span style="color: #808080; text-decoration-color: #808080"># Dataset(s) used in Project_1</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #98ff98; text-decoration-color: #98ff98">notebook</span>                <span style="color: #808080; text-decoration-color: #808080"># Jupyter notebook for Project_1</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #87ceeb; text-decoration-color: #87ceeb">presentation</span>            <span style="color: #808080; text-decoration-color: #808080"># Jupyter presentation for Project_1</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #a76d9d; text-decoration-color: #a76d9d">README.md</span>               <span style="color: #808080; text-decoration-color: #808080"># Detailed README for Project_1</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 <span style="color: #ff6f61; text-decoration-color: #ff6f61">Project_2</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #ffb07c; text-decoration-color: #ffb07c">assets</span>                  <span style="color: #808080; text-decoration-color: #808080"># Additional files used in Project_2</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #ffd700; text-decoration-color: #ffd700">datasets</span>                <span style="color: #808080; text-decoration-color: #808080"># Dataset(s) used in Project_2</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #98ff98; text-decoration-color: #98ff98">notebook</span>                <span style="color: #808080; text-decoration-color: #808080"># Jupyter notebook for Project_2</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #87ceeb; text-decoration-color: #87ceeb">presentation</span>            <span style="color: #808080; text-decoration-color: #808080"># Jupyter presentation for Project_2</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #a76d9d; text-decoration-color: #a76d9d">README.md</span>               <span style="color: #808080; text-decoration-color: #808080"># Detailed README for Project_2</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>...
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>📄 <span style="color: #dadada; text-decoration-color: #dadada">README.md</span>                <span style="color: #808080; text-decoration-color: #808080"># Main repository README (this file)</span>
+</pre>
 
-```
 
 :memo: _The contents of the individual subdirectories vary depending on the projects' requirements._
 
